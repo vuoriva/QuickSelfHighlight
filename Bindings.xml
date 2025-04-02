@@ -1,5 +1,5 @@
 <Bindings>
-	<Binding name="TOGGLESELFHIGHLIGHT" header="SELFHIGHLIGHT">
+	<Binding name="TOGGLESELFHIGHLIGHT" header="SELFHIGHLIGHT" category="ADDONS">
         QuickSelfHighlight_Toggle
 	</Binding>
 </Bindings>

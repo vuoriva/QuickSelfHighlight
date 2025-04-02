@@ -1,0 +1,7 @@
+## Title: Quick Self Highlight
+## Interface: 110100
+## Version: 1.0
+## Notes: A simple addon that toggles self-highlight settings via a slash command (/selfhighlight or /shl).
+## Author: Valtteri (https://github.com/vuoriva)
+
+QuickSelfHighlight.lua

@@ -11,8 +11,8 @@ local function ToggleSelfHighlight()
 	print("|cffffffffSelf Highlight:|r", newSelfHighlightState == "1" and "|cff00ff00ON|r" or "|cff808080OFF|r")
 end
 
-BINDING_HEADER_SELFHIGHLIGHT = "Self Highlight"
-BINDING_NAME_TOGGLESELFHIGHLIGHT = "Toggle self-highlight on or off"
+BINDING_HEADER_SHL = "Self Highlight"
+BINDING_NAME_TOGGLESHL = "Toggle self-highlight on or off"
 SLASH_SELFHIGHLIGHT1 = "/selfhighlight"
 SLASH_SELFHIGHLIGHT2 = "/shl"
 SlashCmdList["SELFHIGHLIGHT"] = ToggleSelfHighlight
